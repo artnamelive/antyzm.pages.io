@@ -293,7 +293,6 @@
    }
    
    .text-span {
-     border-style: solid;
      border-width: 1px;
      border-radius: 4px;
      font-family: Helveticaltstd, sans-serif;
@@ -306,7 +305,6 @@
    }
    
    .text-span-2 {
-     border-style: solid;
      border-width: 1px;
      border-radius: 4px;
      font-family: Helveticaltstd, sans-serif;
@@ -317,7 +315,6 @@
    }
    
    .text-span-3 {
-     border-style: solid;
      border-width: 1px;
      border-radius: 4px;
      font-family: Helveticaltstd, sans-serif;
@@ -416,7 +413,6 @@
    }
    
    .text-span-6 {
-     border-style: solid;
      border-width: 1px;
      border-radius: 4px;
      font-family: Helveticaltstd, sans-serif;
@@ -427,7 +423,6 @@
    }
    
    .text-span-7 {
-     border-style: solid;
      border-width: 1px;
      border-radius: 4px;
      font-family: Helveticaltstd, sans-serif;
