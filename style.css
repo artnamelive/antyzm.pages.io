@@ -295,11 +295,9 @@
    .text-span {
      border-style: solid;
      border-width: 1px;
-     border-color: #1c26da;
      border-radius: 4px;
-     background-color: #1c26da;
      font-family: Helveticaltstd, sans-serif;
-     color: #fff;
+     color: #000000;
      font-size: 11px;
      line-height: 12px;
      font-style: normal;
@@ -310,11 +308,9 @@
    .text-span-2 {
      border-style: solid;
      border-width: 1px;
-     border-color: #1c26da;
      border-radius: 4px;
-     background-color: #1c26da;
      font-family: Helveticaltstd, sans-serif;
-     color: #fff;
+     color: #000000;
      font-size: 11px;
      line-height: 12px;
      text-decoration: underline;
@@ -323,11 +319,9 @@
    .text-span-3 {
      border-style: solid;
      border-width: 1px;
-     border-color: #1c26da;
      border-radius: 4px;
-     background-color: #1c26da;
      font-family: Helveticaltstd, sans-serif;
-     color: #fff;
+     color: #000000;
      font-size: 11px;
      line-height: 12px;
      text-decoration: underline;
